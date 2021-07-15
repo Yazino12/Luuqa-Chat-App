@@ -1,6 +1,6 @@
 # Luuqa Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+![Chat Application](https://yasin-warsame.netlify.app/images/4.png)
 
 ## Introduction
 
