@@ -1,15 +1,58 @@
-# Luuqa Application
+# Luuqa Chat Application
+
+> Luuqa is a realtime chat application where users can chat in realtime and create groups. This app is built using React, ChatEngine and Firebase.
 
 ![Chat Application](https://yasin-warsame.netlify.app/images/4.png)
 
-## Introduction
+## Built With
 
-This is a code repository for the corresponding App. In this repository, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+- Create-react-app
+- Javascript
+- CSS
+- JSX
+- React router
+- Redux
+- ChatEngine
+- Firebase
 
-You will understand how to build a react chat app using [https://chatengine.io](https://chatengine.io)
+## Getting Started
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
+To get a local copy up and running follow these setup steps.
 
-### Bonus - E-mail notifications
+**Setup**
 
-If you want to upgrade this chat application even further than what is shown in the Code, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+- Open terminal and clone the project: `git clone https://github.com/Yazino12/Luuqa-Chat-App.git`
+- cd into the directory `Luuqa-Chat-App`
+
+**Prerequisites**
+
+- You need to have `node.js` installed in your system
+
+**Install**
+
+- On your terminal run : `npm i`
+- To run the app in the development mode : `npm start`
+- Launch the test runner : `npm test`
+- In case you run into any errors please raise an [issue](https://github.com/Yazino12/Luuqa-Chat-App/issues).
+
+**Usage**
+
+- You may use this project as you like.
+
+## Authors
+
+👤 **Yasin**
+
+- GitHub: [@Yazino12](https://github.com/Yazino12)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Credits
+
+- Chat-Engine: [Chatengine.io](https://chatengine.io/)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
