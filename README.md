@@ -39,6 +39,10 @@ To get a local copy up and running follow these setup steps.
 
 - You may use this project as you like.
 
+## LIVE APP
+
+- Luuqa: [Luuqa-chat](https://luuqa.netlify.app/)
+
 ## Authors
 
 👤 **Yasin**
