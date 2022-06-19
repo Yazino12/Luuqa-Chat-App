@@ -42,6 +42,7 @@ To get a local copy up and running follow these setup steps.
 ## LIVE APP
 
 - Luuqa: [Luuqa-chat](https://luuqa.netlify.app/)
+- `ChatEngine had recently updated their plan to a 7 days free trail and due to that the app won't work as expected`
 
 ## Authors
 
