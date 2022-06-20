@@ -35,10 +35,6 @@ To get a local copy up and running follow these setup steps.
 - Launch the test runner : `npm test`
 - In case you run into any errors please raise an [issue](https://github.com/Yazino12/Luuqa-Chat-App/issues).
 
-**Usage**
-
-- You may use this project as you like.
-
 ## LIVE APP
 
 - Luuqa: [Luuqa-chat](https://luuqa.netlify.app/)
